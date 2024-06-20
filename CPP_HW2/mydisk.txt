@@ -1,0 +1,5 @@
+./MYOS/.#Dec 28 11:55^@
+./MYOS/emre.txt#Jan 09 13:43^DENEME 123 `YUSUF EMRE KILICER`210104004017@
+./MYOS/mydir#Jan 09 22:31^@
+./MYOS/mydir/.#Jan 09 22:31^@
+./MYOS/mydir/..#Dec 28 11:55^@
